@@ -8,6 +8,10 @@ module.exports = function(eleventyConfig) {
     console.log('Building Tailwind…');
     console.log(execSync('npm run build:tailwind').toString());
   });
+  // Enable path prefix for GitHub Pages deployment
+  if (process.env.PATH_PREFIX){
+    eleventyConfig.addNunjucksGlobal("PATH_PREFIX", process.env.PATH_PREFIX);
+  }
 
   return {
     htmlTemplateEngine: "njk",
