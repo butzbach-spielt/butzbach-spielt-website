@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - "master"
-      - "Morl99/issue3" # FIXME remove after testing 
 
 jobs:
   build: 
