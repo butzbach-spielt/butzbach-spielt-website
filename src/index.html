@@ -16,12 +16,12 @@ title: Butzbach spielt
 
     {% for item in collections.cards %}
     <div
-      class="max-w-lg mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl"
+      class="max-w-lg mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl lg:max-w-4xl"
     >
       <div class="md:flex">
         <div class="md:shrink-0">
           <img
-            class="h-64 w-full object-cover md:h-full md:w-48"
+            class="h-64 lg:w-96 w-full object-cover md:h-full md:w-48"
             src="{{ item.data.image }}"
             alt="{{ item.data.imageAlt }}"
           />
@@ -29,12 +29,12 @@ title: Butzbach spielt
 
         <div class="p-8">
           <h2
-            class="uppercase tracking-wide text-indigo-500 font-semibold text-lg"
+            class="uppercase tracking-wide text-indigo-500 font-semibold text-2xl"
           >
             {{ item.data.title }}
           </h2>
 
-          <div class="space-y-2 prose prose-slate prose-ul:list-none prose-ul:pl-0">
+          <div class="space-y-2 prose prose-slate prose-headings:text-indigo-500 prose-headings:text-semibold prose-headings:uppercase prose-headings:tracking-wide prose-ul:list-none prose-ul:pl-0">
             {{ item.templateContent | safe}}
           </div>
         </div>
