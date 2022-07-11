@@ -13,6 +13,12 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addNunjucksGlobal("PATH_PREFIX", process.env.PATH_PREFIX);
   }
 
+  eleventyConfig.addCollection('cards', collection => {
+    return collection
+      .getFilteredByGlob('./src/cards/*.md')
+      .sort((a, b) => (Number(a.data.displayOrder) > Number(b.data.displayOrder) ? 1 : -1));
+  });
+
   return {
     htmlTemplateEngine: "njk",
     dir: {
