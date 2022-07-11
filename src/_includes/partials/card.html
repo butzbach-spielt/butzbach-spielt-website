@@ -1,23 +1,24 @@
 <div
-      class="max-w-lg mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl"
+      class="max-w-lg mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl lg:max-w-4xl"
     >
       <div class="md:flex">
         <div class="md:shrink-0">
           <img
-            class="h-64 w-full object-cover md:h-full md:w-48"
-            src="img/spieltisch-1.jpeg"
-            alt="Tisch mit vier Spielern die ein Kartenspiel spielen"
+            class="h-64 lg:w-96 w-full object-cover md:h-full md:w-48"
+            src="{{ card.data.image }}"
+            alt="{{ card.data.imageAlt }}"
           />
         </div>
+
         <div class="p-8">
           <h2
-            class="uppercase tracking-wide text-indigo-500 font-semibold text-lg"
+            class="uppercase tracking-wide text-indigo-500 font-semibold text-2xl"
           >
-            Aktuelle Termine
+            {{ card.data.title }}
           </h2>
 
-          <div class="space-y-2 prose prose-slate">
-            {{ cardContent | safe }}
+          <div class="space-y-2 prose prose-slate prose-headings:text-indigo-500 prose-headings:text-semibold prose-headings:uppercase prose-headings:tracking-wide prose-ul:list-none prose-ul:pl-0">
+            {{ card.templateContent | safe}}
           </div>
         </div>
       </div>
