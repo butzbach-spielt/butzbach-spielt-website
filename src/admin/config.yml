@@ -1,7 +1,7 @@
 backend:
   name: github
   branch: main 
-  repo: https://github.com/Morl99/butzbach-spielt-website
+  repo: Morl99/butzbach-spielt-website
 media_folder: "src/img"
 public_folder: "/img"
 collections:
