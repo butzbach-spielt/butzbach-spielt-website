@@ -4,14 +4,18 @@ backend:
   repo: Morl99/butzbach-spielt-website
 media_folder: "src/img"
 public_folder: "/img"
+publish_mode: editorial_workflow
 collections:
   - name: "card" # Used in routes, e.g., /admin/collections/blog
+    description: Diese Elemente werden als Karte auf der Startseite angezeigt.
     label: "Card" # Used in the UI
     folder: "src/cards" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
+    sortable_fields:
+      - "displayOrder"
     fields: # The fields for each document, usually in front matter
-      - {label: "Display Order", name: "displayOrder", widget: "number", required: true}
-      - {label: "Title", name: "title", widget: "string", required: true}
-      - {label: "Featured Image", name: "image", widget: "image", allow_multiple: false}
-      - {label: "Image Alt Text", name: "imageAlt", widget: "string", required: true}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Reihenfolge", name: "displayOrder", widget: "number", required: true}
+      - {label: "Titel", name: "title", widget: "string", required: true}
+      - {label: "Bild", name: "image", widget: "image", allow_multiple: false}
+      - {label: "Bild Alt Text", name: "imageAlt", widget: "string", required: true}
+      - {label: "Inhalt", name: "body", widget: "markdown"}
