@@ -6,7 +6,7 @@ imageAlt: Logo... bla bla bla
 ---
 **Am Samstag, den, 10. September 2022 richtet Butzbach Spielt das Event zu Stadt.Land.Spielt! aus.**
 
-Ab 14 Uhr wird im Ev. Kindergraden (Zugang über Bethovenstraße) gespielt. Mit großer Spieleausleihe und -Rallyes ist für unterhaltung gesorgt. Der Eintritt ist frei. Weitere Inos unter: [https://stadt-land-spielt.de](https://stadt-land-spielt.de/)
+Ab 14 Uhr wird im Ev. Kindergarten (Zugang über Bethovenstraße) gespielt. Mit großer Spieleausleihe und -Rallys ist für Unterhaltung gesorgt. Der Eintritt ist frei. Weitere Infos unter: [https://stadt-land-spielt.de](https://stadt-land-spielt.de/)
 
 Anreise mit Zug: Butzbach Bahnhof (Ausgang: ) die Taunusstraße bis zur Beethovenstraße hinauf gehen. In der Beethovenstraße kommt nach ca 50 m der Eingang. (Laufzeit ca 10 min)
 
