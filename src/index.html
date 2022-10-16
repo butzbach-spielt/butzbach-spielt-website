@@ -3,18 +3,21 @@ layout: base.html
 title: Butzbach spielt
 ---
 
-<div class="w-full mx-auto mt-6 px-4 text-center space-y-8 text-slate-500">
+<div class="w-full mx-auto my-6 px-4 text-center space-y-8 text-slate-500">
   <img src="img/butzbach-spielt-logo.png" alt="Butzbach spielt Logo" />
-  <div class="justify-center space-y-4 mb-8 font-bold">
+
+  {% include "jumbotron.html" %}
+  
+  <div class="justify-center space-y-4 mb-8 font-bold w-full">
     <h2 class="text-xl">Newsletter</h2>
     <p>Alle Termine, News und Infos bequem per Mail?</p>
-    <button class="bg-slate-500 rounded-md p-4 shadow-lg text-white">
+    <button class="rounded-xl p-4 shadow-lg bg-slate-500 text-white">
       Hier anmelden!
     </button>
   </div>
-  <div class="space-y-8">
-    {% for card in collections.cards %}
-    {% include "partials/card.html" %}
-    {% endfor %}
+  <div class="xl:space-y-0 space-y-8 gap-4 xl:grid xl:grid-cols-3 mb-4">
+    {% for card in collections.cards %} {% include "partials/card.html" %} {%
+    endfor %}
   </div>
 </div>
+
