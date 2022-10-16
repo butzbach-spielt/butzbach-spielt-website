@@ -1,7 +1,7 @@
 ---
 displayOrder: 1
 title: Aktuelle Termine
-image: img/spieltisch-1.jpeg
+image: img/spieltisch-3.jpeg
 imageAlt: Tisch mit vier Spielern die ein Kartenspiel spielen
 ---
 Jeden Dienstag im Monat, außer der Dritte **ab 19 Uhr** @dasgute.haus.

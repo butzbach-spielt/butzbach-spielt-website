@@ -1,25 +1,25 @@
 <div
-      class="max-w-lg mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl lg:max-w-4xl"
-    >
-      <div class="md:flex">
-        <div class="md:shrink-0">
-          <img
-            class="h-64 lg:w-96 w-full object-cover md:h-full md:w-48"
-            src="{{ card.data.image }}"
-            alt="{{ card.data.imageAlt }}"
-          />
-        </div>
+    class="max-w-lg mx-auto bg-white rounded-xl overflow-hidden md:max-w-2xl break-inside-avoid border-slate-300 border border-solid"
+>
+  <div class="md:flex xl:block">
+    <div class="md:shrink-0 overflow-hidden">
+      <img
+        class="xl:h-64 xl:w-full h-64 lg:w-96 w-full object-cover md:h-full md:w-48"
+        src="{{ card.data.image }}"
+        alt="{{ card.data.imageAlt }}"
+      />
+    </div>
 
-        <div class="p-8">
-          <h2
-            class="uppercase tracking-wide text-indigo-500 font-semibold text-2xl"
-          >
-            {{ card.data.title }}
-          </h2>
+    <div class="p-4">
+      <h2 class="uppercase tracking-wide text-slate-500 font-semibold text-2xl">
+        {{ card.data.title }}
+      </h2>
 
-          <div class="space-y-2 prose prose-slate prose-headings:text-indigo-500 prose-headings:text-semibold prose-headings:uppercase prose-headings:tracking-wide prose-ul:list-none prose-ul:pl-0">
-            {{ card.templateContent | safe}}
-          </div>
-        </div>
+      <div
+        class="space-y-2 prose prose-slate prose-headings:text-slate-500 prose-headings:text-semibold prose-headings:uppercase prose-headings:tracking-wide prose-ul:list-none prose-ul:pl-0"
+      >
+        {{ card.templateContent | safe}}
       </div>
     </div>
+  </div>
+</div>
