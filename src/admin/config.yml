@@ -3,6 +3,10 @@ backend:
   branch: main 
   repo: butzbach-spielt/butzbach-spielt-website
 media_folder: "src/img"
+media_library:
+  name: uploadcare
+  config:
+    publicKey: 76df8080dfd5c836240b
 public_folder: "/img"
 publish_mode: editorial_workflow
 collections:
