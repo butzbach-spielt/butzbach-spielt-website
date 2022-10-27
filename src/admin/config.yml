@@ -26,11 +26,10 @@ collections:
     fields:
       - label: "Images"
         name: "images"
-        widget: "list"
-        summary: '{{fields.altText}}'
-        fields: 
-          - {label: "Alt text", name: "imageAlt", widget: "string"}
-          - {label: "Gallery Image", name: "image", widget: "image", media_folder: "img"}
+        widget: "image"
+        media_folder: "img"
+        allow_multiple: true
+        choose_url: false
       - label: "id"
         name: "id"
         widget: "string"
