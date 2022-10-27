@@ -19,3 +19,11 @@ collections:
       - {label: "Bild", name: "image", widget: "image", allow_multiple: false}
       - {label: "Bild Alt Text", name: "imageAlt", widget: "string", required: true}
       - {label: "Inhalt", name: "body", widget: "markdown"}
+  - name: "gallery"
+    folder: "src/gallery"
+    label: "Gallery" 
+    widget: "list"
+    optional: true
+    fields:
+    - {label: "Alt text", name: "imageAlt", widget: "string"}
+    - {label: "Gallery Image", name: "image", widget: "image"}
