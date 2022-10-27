@@ -23,7 +23,8 @@ collections:
     folder: "src/gallery"
     label: "Gallery" 
     widget: "list"
+    create: true
     optional: true
     fields:
     - {label: "Alt text", name: "imageAlt", widget: "string"}
-    - {label: "Gallery Image", name: "image", widget: "image"}
+    - {label: "Gallery Image", name: "image", widget: "image", media_folder: "img"}
