@@ -22,8 +22,17 @@ collections:
   - name: "gallery"
     folder: "src/gallery"
     label: "Gallery" 
-    widget: "list"
     create: true
     fields:
-    - {label: "Alt text", name: "imageAlt", widget: "string"}
-    - {label: "Gallery Image", name: "image", widget: "image", media_folder: "img"}
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        summary: '{{fields.altText}}'
+        fields: 
+          - {label: "Alt text", name: "imageAlt", widget: "string"}
+          - {label: "Gallery Image", name: "image", widget: "image", media_folder: "img"}
+      - label: "id"
+        name: "id"
+        widget: "string"
+
+
