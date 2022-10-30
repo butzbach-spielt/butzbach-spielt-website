@@ -20,6 +20,15 @@ module.exports = function(eleventyConfig) {
       .sort((a, b) => (Number(a.data.displayOrder) > Number(b.data.displayOrder) ? 1 : -1));
   });
 
+  eleventyConfig.addCollection('galleries', collection => {
+    return collection.getFilteredByGlob('./src/galleries/*.md')
+  })
+
+  eleventyConfig.addFilter("debugger", (...args) => {
+    console.log(...args)
+    debugger;
+  })
+
   return {
     htmlTemplateEngine: "njk",
     dir: {

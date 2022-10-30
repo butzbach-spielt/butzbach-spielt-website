@@ -1,0 +1,15 @@
+<div class="flex flex-wrap rounded-lg overflow-hidden bg-slate-500 p-4 text-white">
+  {% for image in gallery.data.images %}
+
+  <div class="h-[40vh] flex-grow">
+    <img
+      data-blink-src="{{ image }}"
+      alt="gallery image"
+      class="h-full min-w-full object-cover align-bottom"
+    />
+  </div>
+
+  {% endfor %}
+
+  <div class="hidden sm:block flex-grow-[10]"></div>
+</div>
