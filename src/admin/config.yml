@@ -29,6 +29,7 @@ collections:
     label: "Gallery" 
     create: true
     fields:
+      - {label: "Titel", name: "title", widget: "string", required: true}
       - label: "Images"
         name: "images"
         widget: "image"
@@ -37,8 +38,5 @@ collections:
           config: 
             multiple: true
         choose_url: false
-      - label: "id"
-        name: "id"
-        widget: "string"
 
 
