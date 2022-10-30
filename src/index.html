@@ -4,10 +4,13 @@ title: Butzbach spielt
 ---
 
 <div class="w-full mx-auto my-6 px-4 text-center space-y-8 text-slate-500">
-  <img src="img/butzbach-spielt-logo.png" alt="Butzbach spielt Logo" />
+  <img
+    data-blink-src="img/butzbach-spielt-logo.png"
+    alt="Butzbach spielt Logo"
+  />
 
   {% include "jumbotron.html" %}
-  
+
   <div class="justify-center space-y-4 mb-8 font-bold w-full">
     <h2 class="text-xl">Newsletter</h2>
     <p>Alle Termine, News und Infos bequem per Mail?</p>
@@ -19,5 +22,11 @@ title: Butzbach spielt
     {% for card in collections.cards %} {% include "partials/card.html" %} {%
     endfor %}
   </div>
-</div>
 
+  <div>
+    {% for gallery in collections.galleries %} {% if gallery.data.title == "start"%}
+    {% include "partials/gallery.html" %}
+    {% endif %} {% endfor %}
+
+  </div>
+</div>

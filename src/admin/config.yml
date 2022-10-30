@@ -1,6 +1,6 @@
 backend:
   name: github
-  branch: main 
+  branch: main
   repo: butzbach-spielt/butzbach-spielt-website
 media_folder: "src/img"
 media_library:
@@ -19,24 +19,32 @@ collections:
     sortable_fields:
       - "displayOrder"
     fields: # The fields for each document, usually in front matter
-      - {label: "Reihenfolge", name: "displayOrder", widget: "number", required: true}
-      - {label: "Titel", name: "title", widget: "string", required: true}
-      - {label: "Bild", name: "image", widget: "image", allow_multiple: false}
-      - {label: "Bild Alt Text", name: "imageAlt", widget: "string", required: true}
-      - {label: "Inhalt", name: "body", widget: "markdown"}
+      - {
+          label: "Reihenfolge",
+          name: "displayOrder",
+          widget: "number",
+          required: true,
+        }
+      - { label: "Titel", name: "title", widget: "string", required: true }
+      - { label: "Bild", name: "image", widget: "image", allow_multiple: false }
+      - {
+          label: "Bild Alt Text",
+          name: "imageAlt",
+          widget: "string",
+          required: true,
+        }
+      - { label: "Inhalt", name: "body", widget: "markdown" }
   - name: "gallery"
-    folder: "src/gallery"
-    label: "Gallery" 
+    folder: "src/galleries"
+    label: "Gallery"
     create: true
     fields:
-      - {label: "Titel", name: "title", widget: "string", required: true}
+      - { label: "Titel", name: "title", widget: "string", required: true }
       - label: "Images"
         name: "images"
         widget: "image"
         media_folder: "img"
         media_library:
-          config: 
+          config:
             multiple: true
         choose_url: false
-
-
