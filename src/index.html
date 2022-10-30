@@ -24,9 +24,7 @@ title: Butzbach spielt
   </div>
 
   <div>
-    {% for gallery in collections.galleries %} {% if gallery.data.title == "start"%}
-    {% include "partials/gallery.html" %}
-    {% endif %} {% endfor %}
-
+    {% for gallery in collections.galleries %} {% if gallery.data.title ==
+    "start"%} {% include "partials/gallery.html" %} {% endif %} {% endfor %}
   </div>
 </div>
