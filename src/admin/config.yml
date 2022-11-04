@@ -37,6 +37,8 @@ collections:
   - name: "gallery"
     folder: "src/galleries"
     label: "Gallery"
+    editor:
+     preview: false
     create: true
     identifier_field: id
     fields:
