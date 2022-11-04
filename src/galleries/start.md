@@ -4,7 +4,6 @@ images:
   - https://ucarecdn.com/5265c069-7341-44eb-84ba-22521722f71c/
   - https://ucarecdn.com/d6179651-b199-4474-bb07-46c9041135b7/
   - https://ucarecdn.com/772477b2-9eb3-4da6-986b-649aa2f80841/
-  - https://ucarecdn.com/695c8e10-827a-4ad6-8734-6abac5763642/
   - https://ucarecdn.com/22f52ce3-2c30-4f9f-945c-af9534937806/
   - https://ucarecdn.com/fcdd00fe-6687-4845-ab38-4f4ee2c8a98d/
   - https://ucarecdn.com/7d44c7c9-76a3-43be-a4f6-6c2671b17b3d/
@@ -15,13 +14,13 @@ images:
   - https://ucarecdn.com/3046171e-6796-4d38-9b08-95d63a147942/
   - https://ucarecdn.com/a3912658-1e8d-48ca-8190-4c6c48fb1373/
   - https://ucarecdn.com/305fd86a-6569-47ad-8875-0bdc431a6215/
-  - https://ucarecdn.com/f4b5afc7-9e5d-497c-9dd7-35345ad082dc/
   - https://ucarecdn.com/7b0720f3-bd73-4c3b-b7bb-b31ce005299f/
   - https://ucarecdn.com/fa33ed02-8b70-45e0-b867-3ce5ceecdd19/
   - https://ucarecdn.com/1b71c110-493e-4811-838c-81050d4ae080/
   - https://ucarecdn.com/7c7ee8ff-c515-40c4-921e-979be81686a3/
   - https://ucarecdn.com/6a34b9a7-4352-486a-9ad2-47d425b0674c/
   - https://ucarecdn.com/fbd788b1-b847-4789-a7e0-3164bc7ee4d1/
+  - https://ucarecdn.com/f4b5afc7-9e5d-497c-9dd7-35345ad082dc/
   - https://ucarecdn.com/31f725a8-ba26-4e72-9a33-480402f04cd8/
   - https://ucarecdn.com/03f21e38-a927-4dd2-9b72-be552fa749c7/
   - https://ucarecdn.com/60dba359-ec58-4703-b900-a21db9856ba2/
