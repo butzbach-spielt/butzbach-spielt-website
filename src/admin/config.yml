@@ -38,8 +38,13 @@ collections:
     folder: "src/galleries"
     label: "Gallery"
     create: true
+    identifier_field: id
     fields:
-      - { label: "Titel", name: "title", widget: "string", required: true }
+      - label: "id"
+        name: "id"
+        widget: "string"
+        required: true
+        hint: This is the id of the gallery, that controls where the gallery is displayed. Change with caution!
       - label: "Images"
         name: "images"
         widget: "image"
