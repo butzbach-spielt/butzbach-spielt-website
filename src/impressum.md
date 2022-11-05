@@ -1,5 +1,5 @@
 ---
-layout: base.html
+layout: styled-page.html
 title: Butzbach spielt - Impressum
 ---
 
