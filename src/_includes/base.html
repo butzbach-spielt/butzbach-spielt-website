@@ -1,34 +1,69 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
+    <base href="/" />
     {% if PATH_PREFIX %}
     <base href="{{ PATH_PREFIX }}" />
     {% endif %}
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="" />
     <title>{{ title }}</title>
-    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/styles.css" />
     <script>
-      (function(src, cb) {
-       var s = document.createElement('script'); s.setAttribute('src', src);
-       s.onload = cb; (document.head || document.body).appendChild(s);
-     })('https://ucarecdn.com/libs/blinkloader/3.x/blinkloader.min.js', function() {
-       window.Blinkloader.optimize({
-         pubkey:'76df8080dfd5c836240b',
-         fadeIn:true,
-         lazyload:true,
-         smartCompression:true,
-         responsive:true,
-         retina:true,
-         webp:true
-       });
-     })
-   </script>
+      (function (src, cb) {
+        var s = document.createElement("script");
+        s.setAttribute("src", src);
+        s.onload = cb;
+        (document.head || document.body).appendChild(s);
+      })(
+        "https://ucarecdn.com/libs/blinkloader/3.x/blinkloader.min.js",
+        function () {
+          window.Blinkloader.optimize({
+            pubkey: "76df8080dfd5c836240b",
+            fadeIn: true,
+            lazyload: true,
+            smartCompression: true,
+            responsive: true,
+            retina: true,
+            webp: true,
+          });
+        }
+      );
+    </script>
   </head>
   <body>
-    <main>
-      {{ content | safe }}
-    </main>
+    <main>{{ content | safe }}</main>
+    <footer class="p-4 bg-white md:p-8 lg:p-10">
+      <div class="mx-auto max-w-screen-xl text-center">
+        <a
+          href="#"
+          class="flex justify-center items-center text-2xl font-semibold text-slate-500"
+        >
+          Butzbach spielt!
+        </a>
+        <p class="my-6 text-slate-500">
+          Wir veranstalten Spieleabende, Spieltage und mehr.
+        </p>
+        <ul
+          class="flex flex-wrap justify-center items-center mb-6 text-slate-500"
+        >
+          <li>
+            <a href="/" class="mr-4 hover:underline md:mr-6">Start</a>
+          </li>
+          <li>
+            <a href="/impressum" class="mr-4 hover:underline md:mr-6"
+              >Impressum</a
+            >
+          </li>
+          <li>
+            <a href="#" class="mr-4 hover:underline md:mr-6">Datenschutz</a>
+          </li>
+        </ul>
+        <span class="text-sm text-slate-500 sm:text-center"
+          >© 2022 <a href="#" class="hover:underline">Butzbach Spielt!</a></span
+        >
+      </div>
+    </footer>
   </body>
 </html>
