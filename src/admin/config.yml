@@ -34,11 +34,15 @@ collections:
           required: true,
         }
       - { label: "Inhalt", name: "body", widget: "markdown" }
+      - label: Logo?
+        name: isLogo
+        widget: boolean
+        description: Set this to true, if the file is a logo or another image that should not be cropped. Needs to have a transparent or white background to work properly.
   - name: "gallery"
     folder: "src/galleries"
     label: "Gallery"
     editor:
-     preview: false
+      preview: false
     create: true
     identifier_field: id
     fields:

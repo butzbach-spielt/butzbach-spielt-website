@@ -1,10 +1,10 @@
 <div
-    class="max-w-lg mx-auto bg-white rounded-xl overflow-hidden md:max-w-2xl break-inside-avoid border-slate-300 border border-solid"
+  class="max-w-lg mx-auto bg-white rounded-xl overflow-hidden md:max-w-2xl break-inside-avoid border-slate-300 border border-solid"
 >
   <div class="md:flex xl:block">
     <div class="md:shrink-0 overflow-hidden">
       <img
-        class="xl:h-64 xl:w-full h-64 lg:w-96 w-full object-cover md:h-full md:w-48"
+        class="xl:h-64 xl:w-full h-64 lg:w-96 w-full {{'object-contain' if card.data.isLogo else 'object-cover'}} md:h-full md:w-48"
         data-blink-src="{{ card.data.image }}"
         alt="{{ card.data.imageAlt }}"
       />
