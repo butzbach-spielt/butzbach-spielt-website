@@ -3,7 +3,9 @@ displayOrder: 3
 title: dasgute.haus
 image: /img/das-gute-haus-logo.png
 imageAlt: Logo von dasgute.haus
+isLogo: true
 ---
+
 ### Marktplatz - Arbeitsplatz - Spielplatz
 
 Unsere Spieleabende finden in Kooperation mit dasgute.haus statt.
