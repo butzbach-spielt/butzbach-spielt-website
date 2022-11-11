@@ -1,5 +1,5 @@
 <div
-  class="max-w-lg mx-auto bg-white rounded-xl overflow-hidden md:max-w-2xl break-inside-avoid border-slate-300 border border-solid"
+  class="mx-auto bg-white rounded-xl overflow-hidden xl:w-full break-inside-avoid border-slate-300 border border-solid"
 >
   <div class="md:flex xl:block">
     <div class="md:shrink-0 overflow-hidden">
@@ -10,13 +10,13 @@
       />
     </div>
 
-    <div class="p-4">
+    <div class="p-4 mx-auto">
       <h2 class="uppercase tracking-wide text-slate-500 font-semibold text-2xl">
         {{ card.data.title }}
       </h2>
 
       <div
-        class="space-y-2 prose prose-slate prose-headings:text-slate-500 prose-headings:text-semibold prose-headings:uppercase prose-headings:tracking-wide prose-ul:list-none prose-ul:pl-0"
+        class="space-y-2 prose prose-slate prose-headings:text-slate-500 prose-headings:text-semibold prose-headings:uppercase prose-headings:tracking-wide prose-ul:list-none prose-ul:pl-0 mx-auto"
       >
         {{ card.templateContent | safe}}
       </div>
