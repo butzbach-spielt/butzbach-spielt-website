@@ -17,4 +17,4 @@ Jeden Dienstag im Monat, außer der Dritte **ab 19 Uhr** @dasgute.haus.
 * 06.12.22 ([Arkham Night](https://asmodee.de/news/arkham-nights-2022))
 * 13.12.22
 
-*Die Arkham Night musste auf dem 06.12.22 verschoben werden.*
+*Die Arkham Night musste auf den 06.12.22 verschoben werden.*
