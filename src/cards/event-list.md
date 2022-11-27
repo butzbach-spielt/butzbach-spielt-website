@@ -17,7 +17,7 @@ Jeden Dienstag im Monat, außer der Dritte **ab 19 Uhr** @dasgute.haus.
 * 13.12.22
 * 27.12.22
 
-** Januar **
+**Januar**
 
 * 03.01.23
 * 10.01.23
