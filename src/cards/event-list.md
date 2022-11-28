@@ -7,10 +7,6 @@ isLogo: false
 ---
 Jeden Dienstag im Monat, außer der Dritte **ab 19 Uhr** @dasgute.haus.
 
-**November**
-
-* 29.11.22
-
 **Dezember**
 
 * 06.12.22 ([Arkham Night](https://asmodee.de/news/arkham-nights-2022))\
