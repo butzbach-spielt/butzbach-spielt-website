@@ -1,7 +1,7 @@
 ---
 displayOrder: 1
 title: Aktuelle Termine
-image: img/spieltisch-3.jpeg
+image: https://ucarecdn.com/fab71b43-8a30-4469-a86d-4de884f302b1/-/preview/-/enhance/63/
 imageAlt: Tisch mit vier Spielern die ein Kartenspiel spielen
 isLogo: false
 ---
