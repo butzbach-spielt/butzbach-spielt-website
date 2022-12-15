@@ -1,17 +1,17 @@
 ---
 displayOrder: 1
 title: Aktuelle Termine
-image: img/spieltisch-3.jpeg
-imageAlt: Tisch mit vier Spielern die ein Kartenspiel spielen
+image: https://ucarecdn.com/fab71b43-8a30-4469-a86d-4de884f302b1/-/preview/-/enhance/63/
+imageAlt: Tisch mit Spielmaterial von Everdell. Zusehen sind Tokens, Münzen und
+  im Hinderung ein Baum
 isLogo: false
 ---
 Jeden Dienstag im Monat, außer der Dritte **ab 19 Uhr** @dasgute.haus.
 
 **Dezember**
 
-* 06.12.22 ([Arkham Night](https://asmodee.de/news/arkham-nights-2022))
-* 13.12.22
-* 27.12.22
+* 27.12.22 \
+ (Ferienspezial ab 15 Uhr)
 
 **Januar**
 
