@@ -10,5 +10,5 @@ isLogo: false
 Eigene Spiele düfen gerne mitgebracht werden, meistens gibt es aber auch eine reiche Auswahl.
 
 ### Der Ablauf
-Der Eintritt ist frei. Getränke und Snacks können vor Ort erworben werden. Es gilt für die Veranstaltung und die Verpflegung: "Zahl soviel, wie es dir wert ist."
+Der Eintritt ist frei. Getränke und Snacks können vor Ort erworben werden. Es gilt für die Veranstaltung: "Zahl soviel, wie es dir wert ist."
             
