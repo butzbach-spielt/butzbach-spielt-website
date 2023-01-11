@@ -3,15 +3,10 @@ displayOrder: 1
 title: Aktuelle Termine
 image: https://ucarecdn.com/fab71b43-8a30-4469-a86d-4de884f302b1/-/preview/-/enhance/63/
 imageAlt: Tisch mit Spielmaterial von Everdell. Zusehen sind Tokens, Münzen und
-  im Hinderung ein Baum
+  im Hintergrund ein Baum
 isLogo: false
 ---
 Jeden Dienstag im Monat, außer der Dritte **ab 19 Uhr** @dasgute.haus.
-
-**Dezember**
-
-* 27.12.22 \
- (Ferienspezial ab 15 Uhr)
 
 **Januar**
 
@@ -19,3 +14,15 @@ Jeden Dienstag im Monat, außer der Dritte **ab 19 Uhr** @dasgute.haus.
 * 10.01.23
 * 24.01.23
 * 31.01.23
+
+**Februar**
+
+* 07.02.23
+* 14.02.23
+* 28.02.23
+
+**Mörz**
+
+* 07.03.23
+* 14.03.23
+* 28.03.23
