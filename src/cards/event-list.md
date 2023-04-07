@@ -11,6 +11,7 @@ Jeden Dienstag im Monat, außer der Dritte **ab 19 Uhr** @dasgute.haus.
 **April**
 
 * 11.04.23
+* 17.04.23 (**Montag!**)
 * 25.04.23 
 
 **Mai**
