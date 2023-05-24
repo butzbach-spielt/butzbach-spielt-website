@@ -8,15 +8,14 @@ isLogo: false
 ---
 Jeden Dienstag im Monat, außer der Dritte **ab 19 Uhr** @dasgute.haus.
 
-
-**Juni**
-
-* 06.06.23
-* 13.06.23
-* 27.06.23
-
 **Juli**
 
 * 04.07.23
 * 11.07.23
 * 25.07.23
+
+**August**
+* 01.08.23
+* 08.08.23
+* 22.09.23
+* 29.08.23
