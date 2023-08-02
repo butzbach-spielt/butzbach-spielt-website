@@ -8,6 +8,9 @@ isLogo: false
 ---
 Jeden Dienstag im Monat, außer der Dritte **ab 19 Uhr** @dasgute.haus.
 
+**Mai**
+
+* 30.05.23
 
 **August**
 * 01.08.23
