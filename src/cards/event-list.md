@@ -8,15 +8,16 @@ isLogo: false
 ---
 Jeden Dienstag im Monat, außer der Dritte **ab 19 Uhr** @dasgute.haus.
 
-**August**
-
-* ~~15.08.23~~ (Findet **nicht** statt)
-* 22.08.23
-* 29.08.23
-
 **September**
 
 * 05.09.23
 * 12.09.23
-* **16.09.23** ab 14 Uhr: Stadt Land Spielt!
+* **19.09.23** extra Termin
 * 26.09.23
+
+** Oktober**
+
+* 03.10.23
+* 10.10.23
+* 24.10.23
+* 31.10.23
