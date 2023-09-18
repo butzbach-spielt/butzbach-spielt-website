@@ -15,7 +15,7 @@ Jeden Dienstag im Monat, außer der Dritte **ab 19 Uhr** @dasgute.haus.
 * **19.09.23** extra Termin
 * 26.09.23
 
-** Oktober**
+**Oktober**
 
 * 03.10.23
 * 10.10.23
