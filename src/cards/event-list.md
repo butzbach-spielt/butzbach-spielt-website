@@ -14,7 +14,7 @@ Jeden Dienstag im Monat, außer der Dritte **ab 19 Uhr** @dasgute.haus.
 * 14.01.25
 * 28.01.25
 
-**February**
+**Februar**
 
 * 04.02.25
 * 11.02.25
