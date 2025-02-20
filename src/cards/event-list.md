@@ -8,14 +8,21 @@ isLogo: false
 ---
 Jeden Dienstag im Monat, außer der Dritte **ab 19 Uhr** @dasgute.haus.
 
-**Januar**
-
-* 07.01.25
-* 14.01.25
-* 28.01.25
-
 **Februar**
 
 * 04.02.25
 * 11.02.25
 * 25.02.25
+
+**März**
+
+* 04.03.25
+* 11.03.25
+* 25.03.25
+
+**April**
+
+* 01.04.25 (kein Scherz!)
+* 08.04.25
+* 22.04.25
+* 29.04.25
