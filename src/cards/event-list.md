@@ -14,7 +14,7 @@ Jeden Dienstag im Monat, außer der Dritte **ab 19 Uhr** @dasgute.haus.
 * 10.06.25
 * 24.06.25
 
- **Juli**
+**Juli**
 
 * 01.07.25
 * 08.07.25
