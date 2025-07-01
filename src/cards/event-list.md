@@ -8,21 +8,8 @@ isLogo: false
 ---
 Jeden Dienstag im Monat, außer der Dritte **ab 19 Uhr** @dasgute.haus.
 
-**April**
+**Juli**
 
-* 01.04.25 (kein Scherz!)
-* 08.04.25
-* 22.04.25
-* 29.04.25
+* 01.07.25
 
-**Mai**
-
-* 06.05.25
-* 13.05.25
-* 27.05.25
-
-**Juni**
-
-* 03.06.25
-* 10.06.25
-* 24.06.25
+Die Termine in den Sommerferien besprechen wir gerade. Wir veröffentlichen sie, sobald sie hier feststehen.
