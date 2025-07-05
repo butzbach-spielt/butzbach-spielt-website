@@ -8,8 +8,10 @@ isLogo: false
 ---
 Jeden Dienstag im Monat, außer der Dritte **ab 19 Uhr** @dasgute.haus.
 
-**Juli**
+**Sommerferien**
 
-* 01.07.25
+* 08.07.25
+* 22.07.25
+* 12.08.25
 
-Die Termine in den Sommerferien besprechen wir gerade. Wir veröffentlichen sie, sobald sie hier feststehen.
+Nach den Sommerferien geht es wie gewohnt weiter.
