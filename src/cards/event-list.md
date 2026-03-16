@@ -6,15 +6,17 @@ imageAlt: Tisch mit Spielmaterial von Everdell. Zusehen sind Tokens, Münzen und
   im Hintergrund ein Baum
 isLogo: false
 ---
-Jeden Dienstag im Monat, außer der Dritte **ab 19 Uhr** @dasgute.haus.
+Ab sofort **jeden** Dienstag im Monat **ab 19 Uhr** @dasgute.haus.
 
 **März**
 
 * 17.03.26
+* 24.03.26
 * 31.03.26
 
 **April**
 
 * 07.04.26
 * 14.04.26
+* 21.04.26
 * 28.04.26
