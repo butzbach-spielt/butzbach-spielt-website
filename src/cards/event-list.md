@@ -6,15 +6,15 @@ imageAlt: Tisch mit Spielmaterial von Everdell. Zusehen sind Tokens, Münzen und
   im Hintergrund ein Baum
 isLogo: false
 ---
-Gespielt wird aktuell  jeden Dienstagabend. Ab 19 Uhr Vorbeikommen und Mitspielen
+Jeden Dienstag im Monat, außer der Dritte **ab 19 Uhr** @dasgute.haus.
 
-Ort:
+**März**
 
-Katholisches Gemeindehaus Butzbach\
-Am Bollwerk 25, 35510 Butzbach\
-\
-Nächsten Termine:
+* 17.03.26
+* 31.03.26
 
-* 17.02.2026
-* 24.02.2026
-* 03.02.2026
+**April**
+
+* 07.04.26
+* 14.04.26
+* 28.04.26
