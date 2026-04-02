@@ -1,7 +1,7 @@
 ---
 displayOrder: 4
 title: Spielend für Toleranz
-image: https://ucarecdn.com/2f4f5dce-3d20-45af-8509-229e3618853c/
+image: https://3nz8q94ikh.ucarecd.net/2f4f5dce-3d20-45af-8509-229e3618853c/
 imageAlt: Logo der Initiative "Spielend für Toleranz". Es zeigt unterschiedliche
   Meeple in Form und Farbe
 isLogo: true
