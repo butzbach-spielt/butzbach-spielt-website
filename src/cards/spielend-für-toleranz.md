@@ -1,5 +1,5 @@
 ---
-displayOrder: 4
+displayOrder: 5
 title: Spielend für Toleranz
 image: https://ucarecdn.com/2f4f5dce-3d20-45af-8509-229e3618853c/
 imageAlt: Logo der Initiative "Spielend für Toleranz". Es zeigt unterschiedliche

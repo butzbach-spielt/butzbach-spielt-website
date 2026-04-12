@@ -1,5 +1,5 @@
 ---
-displayOrder: 3
+displayOrder: 4
 title: dasgute.haus
 image: /img/das-gute-haus-logo.png
 imageAlt: Logo von dasgute.haus
