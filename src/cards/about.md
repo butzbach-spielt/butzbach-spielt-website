@@ -1,5 +1,5 @@
 ---
-displayOrder: 2
+displayOrder: 3
 title: Spieleabende @ dasgute.haus
 image: img/spielesammlung.jpeg
 imageAlt: Tüte mit mehreren Brettspielen drin
